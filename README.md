@@ -205,7 +205,8 @@ int main(void)
 
 
 ## Output screen shots of proteus  :
- ![output](./OUTPUT.png)
+ ![Screenshot (137)](https://user-images.githubusercontent.com/117913445/237005291-7aab6f46-2ae0-46c7-9597-6b870547c557.png)
+
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  ![output](./CIRCUIT%20DIAGRAKM.png)
